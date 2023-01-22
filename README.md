@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um App para ajudar a registrar e monitorar os hábitos.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Visite o projeto online](https://amandaescobar22.github.io/nlwsetup)
 
 ## 🔖 Layout
 
